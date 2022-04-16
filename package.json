@@ -1,0 +1,23 @@
+{
+  "name": "aws-serverless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micha-L-Davis/aws-serverless-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micha-L-Davis/aws-serverless-api/issues"
+  },
+  "homepage": "https://github.com/Micha-L-Davis/aws-serverless-api#readme",
+  "dependencies": {
+    "dynamoose": "^2.8.5"
+  }
+}
